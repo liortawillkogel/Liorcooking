@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "332338207092",
+    "firebase_url": "https://liorcooking-default-rtdb.firebaseio.com",
+    "project_id": "liorcooking",
+    "storage_bucket": "liorcooking.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332338207092:android:3e69038d060a9b15403421",
+        "android_client_info": {
+          "package_name": "com.example.liorcooking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3hC6DymnsgDegvv8OC8OBAR6TJ900MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
